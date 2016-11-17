@@ -10,3 +10,5 @@ import l4g "log4go.googlecode.com/hg"
 Acknowledgements:
 - pomack
   For providing awesome patches to bring log4go up to the latest Go spec
+  
+  [install](https://www.sunnyos.com/article-show-48.html)
